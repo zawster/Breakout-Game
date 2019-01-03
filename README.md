@@ -1,2 +1,8 @@
-# Breakout-Game
-Breakout Game in Assembly Language Smester Project
+# Project-Sapphire
+AsmBreakout (Assembly MASM615)
+
+### Team Member
+* Zerk Shaban
+* Syed Owais Ali Chishti
+* Shaleem John
+* Faisal Usman
