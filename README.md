@@ -1,4 +1,4 @@
-# Assenmly Project
+# Assembly Project
 Breakout Game(Assembly MASM6.15)
 
 ### Team Member
