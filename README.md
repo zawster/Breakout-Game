@@ -6,7 +6,7 @@ Breakout Game(Assembly MASM6.15)
 * Mehmood Munir
 * Iqra Fakhar
 
-### Screenshots of the Game
+###                  Screenshots of the Game
 
 
 ![](Screenshots/Screenshot1.png)
